@@ -5,5 +5,4 @@ In my free time I like working non game related stuff. My current interests are 
 
 My current project is [Absytree](https://github.com/Nimaoth/Absytree), a text editor and structured programming language environment which will hopefully replace Visual Studio Code as my main editor soon.
 
-![Nimaoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimaoth&show_icons=true&include_all_commits=true&theme=radical)
 
